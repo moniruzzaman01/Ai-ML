@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Arif Hasan",
+    "age": 27,
+    "gender": "Male",
+    "city": "Dhaka",
+    "occupation": "Software Engineer",
+    "salary": 85000,
+    "marital_status": "Single"
+  },
+  {
+    "name": "Nusrat Jahan",
+    "age": 25,
+    "gender": "Female",
+    "city": "Chittagong",
+    "occupation": "UI/UX Designer",
+    "salary": 72000,
+    "marital_status": "Married"
+  },
+  {
+    "name": "Rafiul Islam",
+    "age": 31,
+    "gender": "Male",
+    "city": "Khulna",
+    "occupation": "Marketing Manager",
+    "salary": 95000,
+    "marital_status": "Married"
+  },
+  {
+    "name": "Mehnaz Rahman",
+    "age": 26,
+    "gender": "Female",
+    "city": "Sylhet",
+    "occupation": "Data Analyst",
+    "salary": 78000,
+    "marital_status": "Single"
+  },
+  {
+    "name": "Tanvir Alam",
+    "age": 29,
+    "gender": "Male",
+    "city": "Rajshahi",
+    "occupation": "Teacher",
+    "salary": 60000,
+    "marital_status": "Single"
+  }
+]
